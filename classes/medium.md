@@ -38,4 +38,4 @@ Move: `something with Hack & Slash or Volley probably`
 When you use the spirit within you to guide you in an action associated with their domain, you perform any move as if you had rolled a 10+ and gain 1 instability.
 
 ## Retain Stability
-Whenever you gain instability, you must fight to retain parity with the spirit inside you. Roll 2d6 and subtract your instability. On a 10+ you maintain the bond with the spirit within you. On a 7-9 the same but the struggle takes a mental toll, take damage equal to your instability ignoring armor. On a 6- the connection you have the spirit breaks - the spirit returns to beyond the veil and you take damage equal to your instability ignoring armor.
+Whenever you gain instability, you must fight to retain parity with the spirit inside you. Roll 2d6 and subtract your instability. On a 10+ you reinforce the bond with the spirit, reduce your instability by 1. On a 7-9 you maintain stability, but only just. On a 6- either the bond is broken and the spirit returns from whence it came, or you maintain stability but take damage equal to your instability ignoring armor.
