@@ -15,23 +15,23 @@ Domain: protection and defense
 Move: At any time you may gain 1 instability to choose an option from the Defend move.
 
 - [ ] **Magi**  
-Domain: magic and the arcane
+Domain: magic and the arcane  
 Move: When you roll a 7-9 while casting a spell, you may choose to take 1 instability instead of choosing from the provided list. On a 10+ you may take 1 instability to double the effects or the number of targets.
  
 - [ ] **Mender**  
-Domain: healing and restoration
+Domain: healing and restoration  
 Move: When you heal yourself or another, add +1d4. When healing you may choose add an additional +1d6 and gain 1 instability.
 
 - [ ] **Scholar**  
-Domain: knowledge and learning
+Domain: knowledge and learning  
 Move: `something with Spout Lore`
 
 - [ ] **Scoundrel**  
-Domain: deceipt and trickery
+Domain: deceipt and trickery  
 Move: `something with lying or hiding, maybe defy danger`
 
 - [ ] **Warrior**  
-Domain: battle and combat
+Domain: battle and combat  
 Move: `something with Hack & Slash or Volley probably`
 
 ## Guided Intervention
