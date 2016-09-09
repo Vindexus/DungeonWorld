@@ -32,7 +32,7 @@ Move: `something with lying or hiding, maybe defy danger`
 
 - [ ] **Warrior**  
 Domain: battle and combat  
-Move: `something with Hack & Slash or Volley probably`
+Move: Whenever you deal damage through combat you may gain 1 instability to add +1d6 damage.
 
 ## Guided Intervention
 When you use the spirit within you to guide you in an action associated with their domain, you perform any move as if you had rolled a 10+ and gain 1 instability.
