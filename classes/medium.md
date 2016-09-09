@@ -11,21 +11,30 @@ When you take an hour to perform a ritual and open your body up to a spirit you 
 Your ability to seance is attuned to spirits of a certain nature. Choose two spirit types from the list below, and choose a new one each time you level up.
 
 - [ ] **Guardian**  
-Domain: protection and defense
+Domain: protection and defense  
+Move: At any time you may gain 1 instability to choose an option from the Defend move.
 
 - [ ] **Magi**  
 Domain: magic and the arcane
+Move: When you roll a 7-9 while casting a spell, you may choose to take 1 instability instead of choosing from the provided list. On a 10+ you may take 1 instability to double the effects or the number of targets.
  
 - [ ] **Mender**  
 Domain: healing and restoration
+Move: When you heal yourself or another, add +1d4. When healing you may choose add an additional +1d6 and gain 1 instability.
 
 - [ ] **Scholar**  
 Domain: knowledge and learning
+Move: `something with Spout Lore`
+
+- [ ] **Scoundrel**  
+Domain: deceipt and trickery
+Move: `something with lying or hiding, maybe defy danger`
 
 - [ ] **Warrior**  
 Domain: battle and combat
+Move: `something with Hack & Slash or Volley probably`
 
-## Seized Intervention
+## Guided Intervention
 When you use the spirit within you to guide you in an action associated with their domain, you perform any move as if you had rolled a 10+ and gain 1 instability.
 
 ## Retain Stability
