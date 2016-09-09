@@ -10,13 +10,20 @@ When you take an hour to perform a ritual and open your body up to a spirit you 
 ### Spiritual Affinity
 Your ability to seance is attuned to spirits of a certain nature. Choose two spirit types from the list below, and choose a new one each time you level up.
 
- - [ ] Guardian
- - [ ] Magi
- - [ ] Mender
- - [ ] Scholar
- - [ ] Sentinel
- - [ ] Scoundrel
- - [ ] Warrior
+- [ ] **Guardian**  
+Domain: protection and defense
+
+- [ ] **Magi**  
+Domain: magic and the arcane
+ 
+- [ ] **Mender**  
+Domain: healing and restoration
+
+- [ ] **Scholar**  
+Domain: knowledge and learning
+
+- [ ] **Warrior**  
+Domain: battle and combat
 
 ## Seized Intervention
 When you use the spirit within you to guide you in an action associated with their domain, you perform any move as if you had rolled a 10+ and gain 1 instability.
