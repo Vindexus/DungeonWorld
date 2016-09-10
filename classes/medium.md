@@ -4,10 +4,10 @@ When you are possessed by a spirit, or converse with one at length, you may cons
 ## Starting Moves
 
 ### Seance
-When you take an hour to perform a seance ritual, you invite a spirit to inhabit your body. Choose a spirit from Spiritual Affinity you have affinity with and set your instability to 0. The spirit will leave your body after a day or so, or if you seance again.
+When you take an hour to perform a seance ritual, you invite a spirit to inhabit your body. Choose a spirit from Spiritual Affinity you have available and set your *instability* to 0. The spirit will leave your body after a day, or if you seance again.
 
 ### Spiritual Affinity
-Your ability to seance is limited to spirits who you have an affinity with, choose two. Whenever you are possessed by a new type of spirit, or spend time speaking with one, you may check it off.
+Your ability to seance is limited to spirits who type you have an affinity with. Choose two types of spirits you are able to seance with. Whenever you are possessed by a new type of spirit, or spend time speaking with a new type, you may check off that type.
 
 - [ ] **Guardian**  
 Domain: protection and defense  
