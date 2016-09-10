@@ -38,7 +38,7 @@ Whenever you **gain instability**, you must fight to retain parity with the spir
 If you have the Seance move, these count as class moves for you; you can choose from them when you level up:
 
 ### Spiritual Intervention
-When you or an ally within reach would take damage, you may expel the spirit from your body and use its force to negate the damage.
+When **you or a nearby ally would take damage**, you may expel the spirit from your body and use its force to negate the damage.
 
 ### Words of Wisdom
 When you **consult the spirit that reside within you**, they will give you an insight relating to the current situation, and might ask you some questions in return, roll+CHA.
