@@ -26,7 +26,7 @@ Domain: battle and combat
 Move: Whenever you deal damage through combat you may gain 1 instability to add +1d6 damage.
 
 ### Spiritual Guidance
-When you **use the spirit within you to guide you** in an action associated with their domain, you perform any move as if you had rolled a 10+ and gain 1 instability.
+You may reroll any move associated with the domain of the spirit within you. If you do you gain 1 instability.
 
 ### Retain Stability
 Whenever you **gain instability**, you must fight to retain parity with the spirit inside you. Roll 2d6 and subtract your instability. On a 10+ you reinforce the bond with the spirit, reduce your instability by 1. On a 7-9 you maintain stability, but only just. On a 6- choose one:
