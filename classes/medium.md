@@ -19,7 +19,7 @@ Move: When you roll a 7-9 while casting a spell, you may choose to take 1 instab
  
 - [ ] **Mender**  
 Domain: healing and restoration  
-Move: When you heal yourself or another, add +1d4. When healing you may choose add an additional +1d6 and gain 1 instability.
+Move: When you heal yourself or another, you may choose to heal an additional +1d8 and gain 1 instability.
 
 - [ ] **Warrior**  
 Domain: battle and combat  
