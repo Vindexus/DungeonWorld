@@ -29,7 +29,7 @@ Move: Whenever you deal damage through combat you may gain 1 instability to add 
 When you **use the spirit within you to guide you** in an action associated with their domain, you perform any move as if you had rolled a 10+ and gain 1 instability.
 
 ### Retain Stability
-Whenever you gain instability, you must fight to retain parity with the spirit inside you. Roll 2d6 and subtract your instability. On a 10+ you reinforce the bond with the spirit, reduce your instability by 1. On a 7-9 you maintain stability, but only just. On a 6- choose one:
+Whenever you **gain instability**, you must fight to retain parity with the spirit inside you. Roll 2d6 and subtract your instability. On a 10+ you reinforce the bond with the spirit, reduce your instability by 1. On a 7-9 you maintain stability, but only just. On a 6- choose one:
 
  - Maintaining stability takes a mental toll, take 1 damage ignoring armor for each instability you have
  - The link between your body and the spirit within is severed, the spirit leaves your body
