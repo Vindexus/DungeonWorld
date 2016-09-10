@@ -4,7 +4,7 @@ When you are possessed by a spirit, or converse with one at length, you may cons
 ## Starting Moves
 
 ### Seance
-When you take an hour to perform a seance ritual, you invite a spirit to inhabit your body. Choose a spirit from Spiritual Affinity you have available and set your *instability* to 0. The spirit will leave your body after a day, or if you seance again.
+When you take an hour to perform a seance ritual, you invite a spirit to inhabit your body. Choose a spirit type from Spiritual Affinity you have available and set your *instability* to 0. The spirit will leave your body after a day, or if you seance again.
 
 ### Spiritual Affinity
 Your ability to seance is limited to spirits who type you have an affinity with. Choose two types of spirits you are able to seance with. Whenever you are possessed by a new type of spirit, or spend time speaking with a new type, you may check off that type.
@@ -15,19 +15,11 @@ Move: At any time you may gain 1 instability to choose an option from the Defend
 
 - [ ] **Magi**  
 Domain: magic and the arcane  
-Move: When you roll a 7-9 while casting a spell, you may choose to take 1 instability instead of choosing from the provided list. On a 10+ you may take 1 instability to double the effects or the number of targets.
+Move: When you roll a 7-9 while casting a spell, you may choose to take 1 instability instead of choosing from the provided list.
  
 - [ ] **Mender**  
 Domain: healing and restoration  
 Move: When you heal yourself or another, add +1d4. When healing you may choose add an additional +1d6 and gain 1 instability.
-
-- [ ] **Scholar**  
-Domain: knowledge and learning  
-Move: `something with Spout Lore`
-
-- [ ] **Scoundrel**  
-Domain: deceipt and trickery  
-Move: `something with lying or hiding, maybe defy danger`
 
 - [ ] **Warrior**  
 Domain: battle and combat  
