@@ -51,7 +51,7 @@ On a 6- the spirit leaves your body.
 When **you or a nearby ally would take damage**, you may expel the spirit from your body and use its force to negate the damage.
 
 ### Words of Wisdom
-When you **consult the spirit that reside within you**, they will give you an insight relating to the current situation, and might ask you some questions in return, roll+CHA. If you are consulting them on a topic of their domain add +1.
+When you **consult the spirit that resides within you**, they will give you an insight relating to the current situation, and might ask you some questions in return, roll+CHA. If you are consulting them on a topic of their domain add +1.
 
  - On a 10+, the GM will give you good detail.
  - On a 7-9, the GM will give you an impression.
