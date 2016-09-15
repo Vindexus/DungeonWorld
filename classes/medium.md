@@ -12,19 +12,19 @@ When you take an hour to perform a seance ritual, choose a spirit type from the 
 
 Each spirit type has a domain of influence, as well as a boon that they give you as long as they inhabit you. Once you have spent all of your parity the spirit leaves your body.
 
-- [ ] **Guardian**  
+- **Guardian**  
 Domain: protection and defense  
 Boon: At any time you may spend 1 parity to choose an option from the Defend move.
 
-- [ ] **Magi**  
+- **Magi**  
 Domain: magic and the arcane  
 Boon: When you roll a 7-9 while casting a spell, you may choose to spend 1 parity instead of choosing from the provided list.
 
-- [ ] **Mender**  
+- **Mender**  
 Domain: healing and restoration  
 Boon: When you heal yourself or another, you may spend 1 parity to heal an additional +1d8.
 
-- [ ] **Warrior**  
+- **Warrior**  
 Domain: battle and combat  
 Boon: Whenever you deal damage through combat you may spend 1 parity to add +1d6 damage.
 
