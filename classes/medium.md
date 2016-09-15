@@ -1,4 +1,7 @@
-# Medium
+# The Medium
+The Medium has an attuned connection to the spirit realm, and to the spirits that reside there. Using this connection they can accept spirits into their body for a period of that that grant them boons based on what the spirit was adept at while living.
+
+## Becoming a Medium
 When you are possessed by a spirit, or converse with one at length, you may consider the Medium a compendium class that is open to you. The next time you level up instead of taking a move from your class, you may take the Medium starting moves.
 
 ## Starting Moves
