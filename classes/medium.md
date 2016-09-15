@@ -12,6 +12,10 @@ When you take an hour to perform a seance ritual, choose a spirit type from the 
 
 Each spirit type has a domain of influence, as well as a boon that they give you as long as they inhabit you. Once you have spent all of your parity the spirit leaves your body.
 
+- **Charmer**  
+Domain: persuasion and manipulation  
+Boon: When you converse with an NPC you may spend 1 parity to have them to take a shine to you.
+
 - **Guardian**  
 Domain: protection and defense  
 Boon: At any time you may spend 1 parity to choose an option from the Defend move.
