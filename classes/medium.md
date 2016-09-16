@@ -17,7 +17,7 @@ Each spirit type has a domain of influence, as well as a boon that they give you
 
 - **Charmer**  
 Domain: persuasion and manipulation  
-Boon: When you converse with an NPC you may spend 1 parity to have them to take a shine to you.
+Boon: When you converse with an NPC you may spend 1 parity to have them take a shine to you.
 
 - **Guardian**  
 Domain: protection and defense  
