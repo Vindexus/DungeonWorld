@@ -30,7 +30,7 @@ The following techniques can be applied to your attacks using the [Arcane Honing
 
 ### Flowing
 
-If your attack kills a target, you may immediately attack a new target as if you had gotten a 7-9 on the move you initially used.
+If your attack kills a target, you may immediately attack a new target as if you had gotten a 7-9 on the appropriate move.
 
 ### Freezing
 
@@ -38,7 +38,7 @@ Your attack freezes and shatters a portion of your opponent’s armor. After you
 
 ### Galvanic
 
-Electricity courses through your blade, numbing one of your target’s limbs.
+Electricity courses through your weapon, numbing one of your target’s limbs.
 
 ### Void-Edged
 
@@ -82,7 +82,7 @@ Your attack deals an additional 1d4 damage and gains the ‘forceful’ tag.
 
 ### Quicksilver
 
-Your blade cuts faster than the eye can see, preventing your opponent from mounting a proper defense. Gain +2 piercing on your attack.
+Your weapon moves faster than the eye can see, preventing your opponent from mounting a proper defense. Gain +2 piercing on your attack.
 
 ### Warding
 
