@@ -4,7 +4,7 @@ When you have mastered the art of weaving magic into your weapon to imbue it wit
 ## Starting Moves
 
 ### Arcane Honing
-When you **imbue your weapon with magical properties for a coming fight**, roll+INT. On a 10+ hold 3, on a 7-9 hold 2. Whenever you land a blow with this weapon you may spend 1 hold to apply 1 [technique](#techniques) you have (max 1 per attack). Your hold resets to 0 once the fight is over.
+When you **imbue your melee weapon with magical properties for a coming fight**, roll+INT. On a 10+ hold 3, on a 7-9 hold 2. Whenever you land a blow with this weapon you may spend 1 hold to apply 1 [technique](#techniques) you have (max 1 per attack). Your hold resets to 0 once the fight is over.
 
 ### Student of the Blade
 You start with 4 [techniques](#techniques).
