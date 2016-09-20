@@ -1,10 +1,10 @@
 # Arcane Warrior Compendium Class
-When you have mastered the art of weaving magic into your weapon to imbue it with arcane attacks, you may consider the Arcande Warrior an available compendium class. The next time you level up you may take the Arcande Duelist starting moves instead of a class move.
+When you have mastered the art of weaving magic into your weapon to imbue it with arcane attacks, you may consider the Arcane Warrior an available compendium class. The next time you level up you may take the Arcane Duelist starting moves instead of a class move.
 
 ## Starting Moves
 
 ### Arcane Honing
-When you **imbue your weapon with magical properties for a coming fight**, roll+INT. On a 10+ hold 3, on a 7-9 hold 2. Whenever you deal land a blow with this weapon you may spend 1 hold to apply 1 technique you have (max 1).
+When you **imbue your weapon with magical properties for a coming fight**, roll+INT. On a 10+ hold 3, on a 7-9 hold 2. Whenever you land a blow with this weapon you may spend 1 hold to apply 1 technique you have (max 1). Your hold resets to 0 once the fight is over.
 
 ### Student of the Blade
 You start with 4 [techniques](#techniques).
