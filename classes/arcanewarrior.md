@@ -9,18 +9,24 @@ When you **imbue your weapon with magical properties for a coming fight**, roll+
 ### Student of the Blade
 You start with 4 [techniques](#techniques).
 
-
 ## Advanced Moves
-If you have the Arcane Honing move, whenever you level up you may consider the following advanced moves options for your class.
+If you have the [Arcane Honing](#arcane-honing) move, whenever you level up you may consider the following advanced moves options for your class:
 
 ### Floating Step
-When you get a 10+ with Arcane Honing, take +1 forward to any defy danger rolls to navigate the battlefield.
+When you get a 10+ with [Arcane Honing](#arcane-honing), take +1 forward to any defy danger rolls to navigate the battlefield.
 
 ### Witch's Edge
 The maximum hold you can spend on Arcane Honing is increased to 2.
 
+### Blade Artist
+Gain 3 new techniques.
+
+### Blade Savant
+*Requires: [Blade Artist](#blade-artist)*  
+Gain 3 new techniques.
+
 ## Techniques
-The following techniques can be applied to your attacks using the Arcane Honing move.
+The following techniques can be applied to your attacks using the [Arcane Honing](#arcane-honing) move.
 
 ### Flowing
 
@@ -48,11 +54,11 @@ Your attack pins your target’s shadow to the ground, preventing them from movi
 
 ### Elaborate
 
-When you apply this technique, roll +dex.
+When you apply this technique, roll+DEX.
 
-✴ On a 10+, deal an additional 1d8 damage.
-
-✴ On a 7-9, this technique has no effect, but it looks really cool!On a miss, your showboating costs you in some substantial way - the GM will tell you how.
+  - On a 10+, deal an additional 1d8 damage.
+  - On a 7-9, this technique has no effect, but it looks really cool!
+  - On a miss, your showboating costs you in some substantial way - the GM will tell you how.
 
 ### Earthshaker
 
@@ -76,7 +82,7 @@ Your attack deals an additional 1d4 damage and gains the ‘forceful’ tag.
 
 ### Quicksilver
 
-Your blade cuts faster than the eye can see, preventing your opponent from mounting a proper defense. Gain 2 piercing on your attack.
+Your blade cuts faster than the eye can see, preventing your opponent from mounting a proper defense. Gain +2 piercing on your attack.
 
 ### Warding
 
