@@ -4,7 +4,7 @@ When you have mastered the art of weaving magic into your weapon to imbue it wit
 ## Starting Moves
 
 ### Arcane Honing
-When you **imbue your weapon with magical properties for a coming fight**, roll+INT. On a 10+ hold 3, on a 7-9 hold 2. Whenever you land a blow with this weapon you may spend 1 hold to apply 1 technique you have (max 1). Your hold resets to 0 once the fight is over.
+When you **imbue your weapon with magical properties for a coming fight**, roll+INT. On a 10+ hold 3, on a 7-9 hold 2. Whenever you land a blow with this weapon you may spend 1 hold to apply 1 [technique](#techniques) you have (max 1 per attack). Your hold resets to 0 once the fight is over.
 
 ### Student of the Blade
 You start with 4 [techniques](#techniques).
@@ -19,11 +19,11 @@ When you get a 10+ with [Arcane Honing](#arcane-honing), take +1 forward to any 
 The maximum hold you can spend on Arcane Honing is increased to 2.
 
 ### Blade Artist
-Gain 3 new techniques.
+Gain 3 new [techniques](#techniques).
 
 ### Blade Savant
 *Requires: [Blade Artist](#blade-artist)*  
-Gain 3 new techniques.
+Gain 3 new [techniques](#techniques).
 
 ## Techniques
 The following techniques can be applied to your attacks using the [Arcane Honing](#arcane-honing) move.
