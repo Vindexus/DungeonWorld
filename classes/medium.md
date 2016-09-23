@@ -9,8 +9,9 @@ The Medium has an attuned connection to the spirit realm, and to the spirits tha
 ## Starting Moves
 
 ### Seance
-When you take an hour to perform a seance ritual, choose a spirit type from the list below that enters your body and binds itself to you, roll+CHA. 
+When you take an hour to perform a seance ritual, a spirit from the list below that enters your body and binds itself to you, roll+CHA. You can sense this spirit and get a sense of its feelings, and may even come to know it over time.
 
+ - On a 12+ gain 3 parity and learn something personal about the spirit.
  - On a 10+ gain 3 parity. 
  - On a 7-9 gain 2 parity. 
  - On a 6- gain 1 parity in addition to whatever the GM says. 
@@ -41,6 +42,8 @@ Boon: Whenever you deal damage through combat you may spend 1 parity to add +1d6
 >Ask the player what the seance looks like. Do they require materials? Are there candles? Do they sit quietly or is there chanting?
 
 >How does it feel when a spirit enters them? What does it look like to someone watching?
+
+>When the character **learns something about the spirit** this is something that the spirit has been able to convery them. This could be anything: name, something they love, something they hate, the manner of their death, something they left unfinished, their age, gender, favorite food.
 
 ### Spiritual Guidance
 You may spend 1 parity to reroll any move associated with the domain of the spirit within you. 
