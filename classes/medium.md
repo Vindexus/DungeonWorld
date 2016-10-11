@@ -1,3 +1,5 @@
+The Medium is being rewrittent and added to my [Binding World supplement for Dungeon World](http://bindingworld.vindexus.net).
+
 # The Medium
 The Medium has an attuned connection to the spirit realm, and to the spirits that reside there. Using this connection they can accept spirits into their body for a period of that that grant them boons based on what the spirit was adept at while living.
 
