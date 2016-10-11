@@ -1,5 +1,7 @@
+This is a compendium class version of the [Arcane Duelist](http://www.dungeonworldsrd.com/classes/arcane-duelist) playbook.
+
 # Arcane Knight Compendium Class
-When you have mastered the art of weaving magic into your weapon to imbue it with arcane attacks, you may consider the Arcane Knight an available compendium class. The next time you level up you may take the Arcane Duelist starting moves instead of a class move.
+When you have mastered the art of weaving magic into your weapon to imbue it with arcane attacks, you may consider the Arcane Knight an available compendium class. The next time you level up you may take the Arcane Knight starting moves instead of a class move.
 
 ## Starting Moves
 
