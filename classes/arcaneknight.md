@@ -18,7 +18,7 @@ If you have the [Arcane Honing](#arcane-honing) move, whenever you level up you 
 When you get a 10+ with [Arcane Honing](#arcane-honing), take +1 forward to any defy danger rolls to navigate the battlefield.
 
 ### Witch's Edge
-The maximum hold you can spend on Arcane Honing is increased to 2.
+The maximum hold you can spend from [Arcane Honing](#arcane-honing) when landing a blow is increased to 2.
 
 ### Blade Artist
 Gain 3 new [techniques](#techniques).
