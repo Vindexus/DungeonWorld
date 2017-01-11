@@ -16,4 +16,4 @@ On a 10+ the same, and one member of your party (your choice) will be entrusted 
  - Krozium’s Wrath - Longsword - +1 damage, close - On a 10+ with Hack & Slash your attack ignores armor
  - Bow of Night - Hunter’s Bow - +1 piercing, near - When you fire this bow you can choose to cast Darkness on the area it hits, expending one ammo
  - Bracers of Loktar - +1 armor against ranged attacks. When you Defy Danger against normal ranged attacks (spears, arrows, knives, etc), you can attempt to have the bracers deflect the attack and roll+STR or +CON.
- - The Iceglass - Shield - +1 armor, worn, 1 weight - When you Defy Danger with the Iceglass, a 10+ will magical attacks back at their source
+ - The Iceglass - Shield - +1 armor, worn, 1 weight, clumsy (if your Strength is <15) - When you Defy Danger with the Iceglass, a 10+ will reflect magical attacks back at their source
