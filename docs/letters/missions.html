@@ -1,0 +1,138 @@
+<html>
+<head>
+<title>Maximus's Letter</title>
+<link href="https://fonts.googleapis.com/css?family=EB+Garamond|Homemade+Apple" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Nothing+You+Could+Do|Satisfy|Tangerine|Bilbo+Swash+Caps" rel="stylesheet">
+
+<link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0-rc1/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" type="text/javascript"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<style>
+body {
+  background: #ccc; /* from here: https://subtlepatterns.com/rice-paper-3/ */
+  padding: 20px 0 60px;
+  font-size: 18pt;
+  font-family: 'Bilbo+Swash+Caps', cursive;
+  line-height: 1.1
+  font-weight: 400;
+  color: #333;
+}
+
+body.loaded p {
+  opacity: 1;
+}
+
+p {
+  text-indent: 1em;
+  opacity: 0;
+  transition: opacity 0.5s linear;
+}
+
+p.no-indent {
+  text-indent: 0px
+}
+
+.letter {
+  background: url('https://i.imgur.com/MWbu6IO.png');
+  box-shadow: 0px 0px 10px #000;
+  padding: 1.5em 2em;
+  width: 700px;
+  margin-bottom: 2em;
+}
+
+strong {
+  font-weight: bold;
+  color: #000;
+  font-size: 1.1em;
+}
+
+
+ul li {
+  list-style-type: disc;
+}
+
+.signature {
+  width: 100%;
+  margin-top: 0.5em;
+}
+
+.colin {
+  width: 700px;
+  font-family: Arial;
+  background: #eee;
+  margin-bottom: 2em;
+  font-size: 14px;
+  padding: 2em;
+}
+
+.colin strong {
+  font-size: 1em;
+}
+
+hr {
+  background: url('./hr.png') center center no-repeat;
+  background-size: auto 90%;
+  padding: 30px 0;
+  margin: 20px 0px;
+  opacity: 0.25;
+}
+
+</style>
+</head>
+<body class="">
+<div class="container colin">
+<p>Read this letter.</p>
+
+<p>Send me (not Maximus) your character's thoughts, hopes, and doubts. What are they thinking? What are they worried about? What do they wish to achieve?</p>
+
+<p>If you send me this before your next session you can <strong>mark xp</strong>.</p>
+
+<p> - Colin</p>
+</div>
+
+<div class="container letter">
+
+<p class="no-indent">Dear <strong name></strong>,</p>
+
+<p class="no-indent">Thanks to the work of Gus, Dambrath, Shank, and Corrine, we have recently discovered a powerful angelic item that was in the possession of the <strong>Crescent Hands</strong>. I believe this angelic dagger's power may be used to help us destroy the <strong>Artefacts of Change</strong>.</p>
+
+<p>Fortuitously, the angelic runes inscribed on the dagger's hilt have also helped us decipher more of the <strong>Tome of the Chained Soul</strong>. With this new knowledge and the counsel that my Wardens have sent me, there are two quests that the guild requires volunteers for.</p>
+
+<hr />
+
+<p class="no-indent"><strong>Contact the angels from the Choir's Monastery.</strong>
+<br />A group of Wardens must go to the Choir's Monastery high in the Mountains of Ice and Sky, and speak with the monks that reside there. Attempt to pass a message to or commune with the angels, their knowledge and help could be invaluable.</p>
+
+<br />
+
+<p class="no-indent"><strong>Recover the artefact from the Royal Museum.</strong>
+<br />From further deciphering the Tome of the Chained Soul we have found the location of another Artefact of Change. This amulet, known as the Lidless Amulet, was found long before this ordeal with the Crescent Hands. None knew of its true nature, and it is currently on display in the Royal Museum in Queen's Iris. It must be recovered.</p>
+
+<hr />
+
+<p class="no-indent">We the Elders are also considering two dangerous possibilities. I do not mention these to you lightly, as there are great risks and grave consequences to both.</p>
+
+<p>One is to let the Artefacts of Change possess a willing person, and attempt to destroy that portion of the Lord of Change's soul while it is in an active host. The host's survival is far from guaranteed, even if we are successful in destroying that piece of the Lord of Change's soul.</p>
+
+<p>The other is to use the power of the Shadowflame to aid us in this fight. Its power could be useful for its destructive properties, particularly if it were to deal a killing blow.</p>
+
+<hr />
+
+<p class="no-indent"><strong name></strong>, your resolve and strength in these times is an inspiration to me and the other Elders. Though the world may never know of your heroic deeds, know that you honor yourselves and your fellow brothers and sisters with your actions.</p>
+
+<br />
+
+<p class="no-indent">Memoriam martus,
+<img alt="Maxiums" src="https://i.imgur.com/3IFXFf7.png" class="signature" /></p>
+<script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function () {
+  var name = window.location.hash ? window.location.hash.substr(1) : 'Warden'
+  var nameEls = document.querySelectorAll('[name]')
+  nameEls.forEach(function (el) {
+    el.innerHTML = name
+  })
+  document.querySelector('body').classList.toggle('loaded', true)
+})
+</script>
+</body>
+</html>
