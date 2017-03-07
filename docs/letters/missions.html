@@ -136,7 +136,7 @@ hr {
 
 <hr />
 
-<p class="no-indent"><strong yourname></strong>, your resolve and strength in these times is an inspiration to me and the other Elders. Though the world may never know of your heroic deeds, know that you honor yourselves and your fellow brothers and sisters with your actions.</p>
+<p class="no-indent"><strong yourname></strong>, the resolve and strength of you and the other Wardens in these times is an inspiration to me and the other Elders. Though the world may never know of your heroic deeds, know that you honor yourselves and your fellow brothers and sisters with your actions.</p>
 
 <br />
 
@@ -144,12 +144,16 @@ hr {
 <img alt="Maxiums" src="https://i.imgur.com/3IFXFf7.png" class="signature" /></p>
 <script type="text/javascript">
 document.addEventListener('DOMContentLoaded', function () {
-  var name = window.location.hash ? window.location.hash.substr(1) : 'Warden'
+  var nameSelector = window.location.hash ? window.location.hash.substr(1) : 'Warden'
+  var specialNames = {
+    'Misha': "M'isha"
+  }
+  var name = specialNames.hasOwnProperty(nameSelector) ? specialNames[nameSelector] : nameSelector
   var nameEls = document.querySelectorAll('[yourname]')
   nameEls.forEach(function (el) {
     el.innerHTML = name
   })
-  var selector = '.you[name=' + name + ']'
+  var selector = '.you[name=' + nameSelector + ']'
   $(selector).each(function (index, el) {
     $(el).replaceWith('you')
   })
