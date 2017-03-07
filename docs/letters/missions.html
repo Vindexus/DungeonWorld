@@ -13,19 +13,36 @@ body {
   padding: 20px 0 60px;
   font-size: 18pt;
   font-family: 'Bilbo+Swash+Caps', cursive;
-  line-height: 1.1
+  line-height: 1.1,
   font-weight: 400;
   color: #333;
+  background: #000 top center no-repeat fixed;
+  background-size: cover;
 }
 
-body.loaded p {
+body:before {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  opacity: 0.7;
+  background: #000;
+  top: 0px;
+  left: 0px;
+  z-index: -1;
+  content: " ";
+}
+
+.needs-load {
+  opacity: 0;
+  transition: opacity 1s ease 0.5s;
+}
+
+body.loaded .needs-load {
   opacity: 1;
 }
 
 p {
   text-indent: 1em;
-  opacity: 0;
-  transition: opacity 0.5s linear;
 }
 
 p.no-indent {
@@ -38,6 +55,8 @@ p.no-indent {
   padding: 1.5em 2em;
   width: 700px;
   margin-bottom: 2em;
+  border-radius: 2px;
+  box-shadow: 0px 0px 15px #000;
 }
 
 strong {
@@ -80,7 +99,7 @@ hr {
 </style>
 </head>
 <body class="">
-<div class="container colin">
+<div class="container colin needs-load">
 <p class="preload">Read this letter.</p>
 
 <p class="preload">Send me (not Maximus) your character's thoughts, hopes, and doubts. What are they thinking? What are they worried about? What do they wish to achieve?</p>
@@ -90,7 +109,7 @@ hr {
 <p class="preload"> - Colin</p>
 </div>
 
-<div class="container letter">
+<div class="container letter needs-load">
 
 <p class="no-indent">Dear <strong yourname></strong>,</p>
 
@@ -135,7 +154,13 @@ document.addEventListener('DOMContentLoaded', function () {
   $(selector).each(function (index, el) {
     $(el).replaceWith('you')
   })
-  document.querySelector('body').classList.toggle('loaded', true)
+
+  var bgImg = new Image();
+  bgImg.onload = function(){
+    document.querySelector('body').style.backgroundImage = 'url(' + bgImg.src + ')';
+    document.querySelector('body').classList.toggle('loaded', true)
+  };
+  bgImg.src = './bg.jpg';
 })
 
 </script>
